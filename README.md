@@ -12,7 +12,7 @@ A web-based photo gallery showcasing various glimpses of the National Institute 
 
 ## Demo
 
-You can view the application live here: [Demo Link](#)
+You can view the application live here: [Demo Link](https://mkraj-7838.github.io/NITD-glimpse/)
 
 ## Installation
 
